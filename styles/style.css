@@ -148,7 +148,7 @@ html {
 
 .bet-button {
     color: white;
-    font-size: 22px;   
+    font-size: 22px;
     font-weight: medium;
     text-transform: uppercase;
     border: 1px solid white;
@@ -160,7 +160,7 @@ html {
 
 .lots {
     width: 1052px;
-    margin: 179px 24px 0px 24px;   
+    margin: 179px 24px 0px 24px;
 }
 
 .lots_heading {
@@ -175,7 +175,7 @@ html {
     display: flex;
     column-gap: 25px;
     flex-wrap: wrap;
-    margin-top: 27px; 
+    margin-top: 27px;
 }
 
 .lots_card-list-item {
