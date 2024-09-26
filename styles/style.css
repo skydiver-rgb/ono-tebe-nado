@@ -14,7 +14,7 @@ html {
     width: 391px;
     height: 22px;
     display: flex;
-    margin: 44px 36px 39px 26.5px; 
+    margin: 44px 36px 39px 26.5px;
 }
 
 .header_links-list-item {
@@ -63,9 +63,9 @@ html {
 }
 
 .cover {
-    width: 1100px; 
+    width: 1100px;
     background-image: url(../images/cover.jpg);
-    background-size: cover; 
+    background-size: cover;
     position: relative;
 }
 
@@ -79,11 +79,11 @@ html {
 .cover_logo-text_one_line {
     width: 1000px;
     text-transform: uppercase;
-    color:white; 
+    color:white;
     font-size: 100px;
     letter-spacing: 29px;
     row-gap: 7px;
-    font-weight: bold; 
+    font-weight: bold;
     padding-top: 165px;
     padding-right: 734px;
     padding-left: 50px;
@@ -99,7 +99,7 @@ html {
     font-weight: bold;
     padding-left: 336px;
     text-transform: uppercase;
-    color:white; 
+    color:white;
     font-size: 100px;
     letter-spacing: 29px;
     position: relative;
@@ -111,9 +111,9 @@ html {
 
 .cover_logo-text_three_line {
     font-weight: bold;
-    padding-left: 633px; 
+    padding-left: 633px;
     text-transform: uppercase;
-    color:white; 
+    color:white;
     font-size: 100px;
     position: relative;
 }
@@ -130,7 +130,7 @@ html {
     display: flex;
     width: 1100px;
     height: 100%;
-    color: white; 
+    color: white;
     position: relative;
 }
  
@@ -148,7 +148,7 @@ html {
 
 .bet-button {
     color: white;
-    font-size: 22px;    
+    font-size: 22px;   
     font-weight: medium;
     text-transform: uppercase;
     border: 1px solid white;
@@ -160,7 +160,7 @@ html {
 
 .lots {
     width: 1052px;
-    margin: 179px 24px 0px 24px;    
+    margin: 179px 24px 0px 24px;   
 }
 
 .lots_heading {
@@ -175,7 +175,7 @@ html {
     display: flex;
     column-gap: 25px;
     flex-wrap: wrap;
-    margin-top: 27px;  
+    margin-top: 27px; 
 }
 
 .lots_card-list-item {
@@ -228,7 +228,7 @@ html {
     background-image: url(../images/card-lot-01.jpg);
 }
 
-.card_type_book { 
+.card_type_book {
     background-image: url(../images/card-lot-02.jpg);
 }
 
@@ -313,7 +313,7 @@ html {
 
 .footer_address {
     width: 240px;
-    margin-left: 0px; 
+    margin-left: 0px;
     margin-right: 185px;
 }
 
