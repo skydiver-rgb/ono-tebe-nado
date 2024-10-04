@@ -35,11 +35,14 @@
 }
 
 address {
-    width: 240px;
     display: flex;
     margin: 5px 25px 2px 187px;
     flex-direction: column;
     font-style: normal;
+}
+
+.header_address {
+    line-height: 23px;
 }
 
 .header_link {
@@ -47,10 +50,6 @@ address {
     padding-left: 0;
     line-height: 25px;
     text-underline-offset: 3px;
-}
-
-.header_address {
-    line-height: 23px;
 }
 
 .header_link-active {
